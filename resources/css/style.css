@@ -4,6 +4,10 @@ body{
     font-family: Verdana;
 }
 
+main {
+    padding: 20px;
+}
+
 h1{
     font-weight: normal;
     font-size: 50px;
@@ -24,6 +28,7 @@ p{
 p.download{
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
 }
 
 .download:hover{
